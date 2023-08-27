@@ -1,8 +1,10 @@
+import Header from "./Components/Layout/Header"
+
 function App() {
 
   return (
     <>
-      <h1>test</h1>
+    <Header />
         
     </>
   )
