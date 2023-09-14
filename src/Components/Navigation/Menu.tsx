@@ -1,10 +1,10 @@
 function Menu(props) {
   return (
-    <nav className=''>
-      <a className='' href="">about</a>
-      <a className='' href="">services</a>
-      <a className='' href="">brokers</a>
-      <a className='' href="">account</a>
+    <nav className='py-3 flex mx-auto'>
+      <a className='px-3 py-2 underline capitalize' href="">about</a>
+      <a className='px-3 py-2 underline capitalize' href="">services</a>
+      <a className='px-3 py-2 underline capitalize' href="">brokers</a>
+      <a className='px-3 py-2 underline capitalize ' href="">account</a>
     </nav>
   );
 }
