@@ -2,7 +2,7 @@ import logo from  "../../assets/logo.png";
 
 function Logo(props) {
   return (
-    <img className="h-8 " src={ logo} alt="house logo" />
+    <img className="h-10 w-10 " src={ logo} alt="house logo" />
   );
 }
 
